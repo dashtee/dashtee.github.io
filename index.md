@@ -2,6 +2,14 @@
 .post-link {
     font-size: 20px;
 }
+    
+p.rss-subscribe {
+	display: none;
+}
+
+li.p-name {
+	display: none;
+}    
 </style>
 
 記錄生活中，各種聰明消費的方式
