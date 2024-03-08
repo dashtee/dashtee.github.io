@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+記錄生活中，各種聰明消費的方式
+幫助身邊的朋友和家人，能夠買到經濟實惠的好東西，享受物超所值的體驗
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+除了考量價格，同時也評估，商品或服務帶來的體驗，並分析整體消費過程，是否方便省時？
+不只是追求最便宜，而浪費太多時間在比價，或買到超爛的東西，一方面受氣，二來還得把物品丟掉，反而更浪費錢
